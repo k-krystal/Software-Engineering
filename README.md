@@ -7,4 +7,4 @@ In this system we present a smart question paper generating system for universit
 system selects questions randomly in a way that their weightage makes up for 100 marks and according to difficulty that admin chooses the questions based on their complexity level. The questions are also added for various difficulty levels so that as soon admin chooses the type of paper difficulty (Easy, medium, difficult) the system automatically generates paper, prepares doc file as per selected paper format. Also emails it to other colleges. Evaluation is also done for the tests that the students give online. A database of marks is
 maintained for teachers and students.
 
-P.S- You will find all other details about design, constraints,diagramatical representations of the implementation in the document.
+P.S- You will find all other details about design, constraints,diagrammatical representations of the implementation in the software requirement specifications document.
